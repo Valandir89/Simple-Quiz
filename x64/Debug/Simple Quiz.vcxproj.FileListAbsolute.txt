@@ -1,0 +1,2 @@
+C:\Users\lukas\source\repos\Simple Quiz\x64\Debug\Simple Quiz.exe
+C:\Users\lukas\source\repos\Simple Quiz\x64\Debug\Simple Quiz.pdb
